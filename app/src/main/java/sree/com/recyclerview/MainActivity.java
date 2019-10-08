@@ -47,10 +47,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         mImageUrls.add("https://i.redd.it/glin0nwndo501.jpg");
-        mNames.add("White Sands Desertsssssssssssss");
+        mNames.add("White Sands Deserts");
 
         mImageUrls.add("https://i.redd.it/obx4zydshg601.jpg");
-        mNames.add("Austrailiaaaaaaaaaaaaaaa");
+        mNames.add("Austrailia");
 
         mImageUrls.add("https://i.imgur.com/ZcLLrkY.jpg");
         mNames.add("Washington");
